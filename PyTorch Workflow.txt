@@ -1,0 +1,8 @@
+# Basic Worklow
+#1: Data
+#2: Build Model
+#3 Fitting the Model
+#4 Making Predictions and Evaluation
+#5 Save and Load a Model
+#6 Putting all together
+

@@ -1,0 +1,32 @@
+- Overfitting 12:40   24/05/2024
+Proposed Solution:
+16-8 Hidden Units
+
+- Overfitting 13:16  24/05/2024
+Proposed Solution:
+8-4 Hidden Units
+
+- Underfitting 13:30  24/05/2024
+Proposed Solution:
+Increase Epochs from 10-30
+Estimated Training Time: >40mins
+
+- Major Changes
+Fixed to Binary Classification instead of Multi Class
+
+- Overfitting 15:02 24/05/2024
+Proposed Solution:
+- Get rid of 2nd Conv Layer
+
+- Overfitting 19:09 24/05/2024
+Proposed Solution:
+Data Augmentation
+
+
+- Underfitting 10:05 25/05/2024
+Proposed Solution:
+Use Transfer Learning
+Use Hugging Face
+
+Finished 12:17 25/05/2024
+train_loss: 0.1247 | train_acc: 0.9538 | test_loss: 0.0992 | test_acc: 0.9690
